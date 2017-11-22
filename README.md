@@ -32,7 +32,7 @@ There are several vignettes included in the package:
 -   **ipums-cps** - An example of using CPS data with the ipumsr package
 -   **ipums-nghis** - An example of using NHGIS data with the ipumsr package
 
-You can access them with the `vignette()` command (eg `vignette("value-labels")`).
+You can access them with the `vignette()` command (eg `vignette("value-labels", package= "ipumsr")`).
 
 If you are installing from github and want the vignettes, you'll need to run the following commands first:
 
